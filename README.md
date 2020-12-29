@@ -3,11 +3,6 @@ A ML based Web application that helps in predicting the *selling price* of a use
 
 ## Live Web-App available [here.](https://car-price-predict-app.herokuapp.com/)
 <kbd>
-<img src="https://user-images.githubusercontent.com/29462447/103283321-44386700-49fe-11eb-8047-3d91c5bbae35.png" data-canonical-src="https://user-images.githubusercontent.com/29462447/103283321-44386700-49fe-11eb-8047-3d91c5bbae35.png"/> 
-</kbd>
-
-&nbsp;
-<kbd>
 <img src="https://user-images.githubusercontent.com/29462447/103283342-54504680-49fe-11eb-9a03-5695d925600b.png" data-canonical-src="https://user-images.githubusercontent.com/29462447/103283342-54504680-49fe-11eb-9a03-5695d925600b.png"/> 
 </kbd>
 
