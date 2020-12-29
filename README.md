@@ -27,9 +27,20 @@ Thus, we plan to go forward with the Random Forest Regression Algorithm further 
 
 ### Multi-Core Model Training and HyperParameter Tuning
 The Model was trained progressively with increasing number of Physical/Logical Cores *(Intel i7 7th Gen 700 CPU 12 GB DDR4 RAM)* as well as further subjected to multi-core hyperparameter tuning for getting best possible values for the model using **RandomizedSearchCV** methodology.
+<p>
+<kbd>
+<img src="https://user-images.githubusercontent.com/29462447/103284748-19e8a880-4a02-11eb-9f6c-cef42524645e.png" data-canonical-src="https://user-images.githubusercontent.com/29462447/103284748-19e8a880-4a02-11eb-9f6c-cef42524645e.png"/> 
+</kbd>  
 
-![4](https://user-images.githubusercontent.com/29462447/103284748-19e8a880-4a02-11eb-9f6c-cef42524645e.png)
-![5](https://user-images.githubusercontent.com/29462447/103284753-1d7c2f80-4a02-11eb-880e-49e456f1c497.png)
+<kbd>
+<img src="https://user-images.githubusercontent.com/29462447/103284753-1d7c2f80-4a02-11eb-880e-49e456f1c497.png" data-canonical-src="https://user-images.githubusercontent.com/29462447/103284753-1d7c2f80-4a02-11eb-880e-49e456f1c497.png"/> 
+</kbd>  
+</p>
+<p align="center">
+<kbd>
+<img src="https://user-images.githubusercontent.com/29462447/103285194-713b4880-4a03-11eb-9cfa-78115cc8b27b.png" data-canonical-src="https://user-images.githubusercontent.com/29462447/103285194-713b4880-4a03-11eb-9cfa-78115cc8b27b.png"/> 
+</kbd>
+</p>
 
 ## Metrics ( Final Model )
 | **MAE**  |  **Value**  |    
