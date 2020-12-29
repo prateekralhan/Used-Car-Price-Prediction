@@ -17,6 +17,20 @@ You can find the dataset [here.](https://www.kaggle.com/nehalbirla/vehicle-datas
 ### Installation:
 Simply execute the command: ***pip install -r requirements.txt*** to install the necessary dependencies.
 
+### Usage:
+1. Clone this Repository to a directory and navigate to that directory.
+2. Run the command: ***python app.py***
+3. This will run the web-app on localhost and would look something like this. Feel free to play around with the codes, add more features, beautify it. :wink:
+
+<kbd>
+<img src="https://user-images.githubusercontent.com/29462447/103283342-54504680-49fe-11eb-9a03-5695d925600b.png" data-canonical-src="https://user-images.githubusercontent.com/29462447/103283342-54504680-49fe-11eb-9a03-5695d925600b.png"/> 
+</kbd>
+
+&nbsp;
+<kbd>
+<img src="https://user-images.githubusercontent.com/29462447/103283363-616d3580-49fe-11eb-9343-7a72872e1048.png" data-canonical-src="https://user-images.githubusercontent.com/29462447/103283363-616d3580-49fe-11eb-9343-7a72872e1048.png"/> 
+</kbd>
+
 ### Running the Dockerized App
 1. Ensure you have Docker Installed and Setup in your OS (Windows/Mac/Linux). For detailed Instructions, please refer [this.](https://docs.docker.com/engine/install/)
 2. Navigate to the folder where you have cloned this repository ( where the ***Dockerfile*** is present ).
