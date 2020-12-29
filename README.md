@@ -41,9 +41,34 @@ The Model was trained progressively with increasing number of Physical/Logical C
 <img src="https://user-images.githubusercontent.com/29462447/103285194-713b4880-4a03-11eb-9cfa-78115cc8b27b.png" data-canonical-src="https://user-images.githubusercontent.com/29462447/103285194-713b4880-4a03-11eb-9cfa-78115cc8b27b.png"/> 
 </kbd>
 </p>
+<hr>
+<strong> Metrics ( Final Model )</strong>
+<br>
+<table>
+  <tr>
+    <th>Metric</th>
+    <th>Value</th>
+  </tr>
+  <tr>
+    <td>MAE</td>
+    <td>1.0406</td>
+  </tr>
+  <tr>
+    <td>MSE</td>
+    <td>5.7957</td>
+  </tr>
+    <tr>
+    <td>RMSE</td>
+    <td>2.4074</td>
+  </tr>
+  <tr>
+    <td>R2</td>
+    <td>0.8413</td>
+  </tr>
+</table>
 
-## Metrics ( Final Model )
-| **MAE**  |  **Value**  |    
-| **MSE**  |  **Value**  |    
-| **RMSE** |  **Value**  |    
-| **R2**   |  **Value**  |    
+1. MAE  : 1.0406058674433205
+2. MSE  : 5.795724771873122
+3. RMSE : 2.4074311562063664
+4. R2   : 0.8413277571195945
+<hr>
