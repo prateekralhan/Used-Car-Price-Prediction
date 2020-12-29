@@ -1,7 +1,7 @@
 # Used Car Price Prediction
 
 ### Dataset
-You can find the dataset (here.)[https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho]
+You can find the dataset [here.](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho)
 
 ### Running the Dockerized App
 1. Ensure you have Docker Installed and Setup in your OS (Windows/Mac/Linux). For detailed Instructions, please refer [this.](https://docs.docker.com/engine/install/)
