@@ -5,19 +5,23 @@ Live Web-App available [here.](https://car-price-predict-app.herokuapp.com/)
 ### Dataset
 You can find the dataset [here.](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho)
 
-### Running the Dockerized App
-1. Ensure you have Docker Installed and Setup in your OS (Windows/Mac/Linux). For detailed Instructions, please refer [this.](https://docs.docker.com/engine/install/)
-2. Navigate to the folder where you have cloned this repository ( where the ***Dockerfile*** is present ).
-3. Build the Docker Image (don't forget the dot!! :smile: ): 
-```
-docker build --tag car_price_prediction_app .
-```
-4. Run the docker:
-```
-docker run --publish 8000:8080 --detach --name bb2 car_price_prediction_app
-```
+### Installation:
+Simply execute the command: ***pip install -r requirements.txt*** to install the necessary dependencies.
 
-This will launch the dockerized app. Navigate to ***localhost:8000*** in your browser to have a look at your application. You can check the status of your all available running dockers by:
-```
-docker ps
-```
+### Usage:
+1. Clone this Repository to a directory and navigate to that directory.
+2. Run the command: ***jupyter notebook*** in the command prompt/terminal/powershell.
+3. Feel free to explore the EDA and Modelling done by me as well as make further changes/refinements as per your innovative ideas :smile:
+
+### Model:
+* I implemented 3 Models initially which yielded the following results:
+
+| **Model Name**  | **Linear Regression** | **Decision Tree Regression** | **Random Forest Regression** |
+| --------------- | --------------------- | ---------------------------- | ---------------------------- |
+| MAE             | 1.2093                | 0.5868                       | **0.4063**                   |
+| MSE             | 2.6698                | 1.4126                       | **0.4376**                   | 
+| RMSE            | 1.6339                | 1.1885                       | **0.6615**                   |
+| R2              | 0.8516                | 0.9214                       | **0.9756**                   |
+  
+
+
