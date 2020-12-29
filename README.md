@@ -1,15 +1,7 @@
-# Used Car Price Prediction
+# Used Car Price Prediction 🏎🚙⛽️
 A ML based Web application that helps in predicting the *selling price* of a used 🚗 🚙
 
 ## Live Web-App available [here.](https://car-price-predict-app.herokuapp.com/)
-<kbd>
-<img src="https://user-images.githubusercontent.com/29462447/103283342-54504680-49fe-11eb-9a03-5695d925600b.png" data-canonical-src="https://user-images.githubusercontent.com/29462447/103283342-54504680-49fe-11eb-9a03-5695d925600b.png"/> 
-</kbd>
-
-&nbsp;
-<kbd>
-<img src="https://user-images.githubusercontent.com/29462447/103283363-616d3580-49fe-11eb-9343-7a72872e1048.png" data-canonical-src="https://user-images.githubusercontent.com/29462447/103283363-616d3580-49fe-11eb-9343-7a72872e1048.png"/> 
-</kbd>
 
 ### Dataset
 You can find the dataset [here.](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho)
