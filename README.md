@@ -44,6 +44,7 @@ The Model was trained progressively with increasing number of Physical/Logical C
 <hr>
 <strong> Metrics ( Final Model )</strong>
 <br>
+<br>
 <table>
   <tr>
     <th>Metric</th>
@@ -51,24 +52,19 @@ The Model was trained progressively with increasing number of Physical/Logical C
   </tr>
   <tr>
     <td>MAE</td>
-    <td>1.0406</td>
+    <td>0.4866</td>
   </tr>
   <tr>
     <td>MSE</td>
-    <td>5.7957</td>
+    <td>0.9922</td>
   </tr>
     <tr>
     <td>RMSE</td>
-    <td>2.4074</td>
+    <td>0.9961</td>
   </tr>
   <tr>
     <td>R2</td>
-    <td>0.8413</td>
+    <td>0.9448</td>
   </tr>
 </table>
 
-1. MAE  : 1.0406058674433205
-2. MSE  : 5.795724771873122
-3. RMSE : 2.4074311562063664
-4. R2   : 0.8413277571195945
-<hr>
