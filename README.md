@@ -42,9 +42,10 @@ The Model was trained progressively with increasing number of Physical/Logical C
 </kbd>
 </p>
 <hr>
-<strong> Metrics ( Final Model )</strong>
+<strong> Final Model Evaluation Metrics </strong>
 <br>
 <br>
+<p align="center">
 <table>
   <tr>
     <th>Metric</th>
@@ -67,4 +68,5 @@ The Model was trained progressively with increasing number of Physical/Logical C
     <td>0.9448</td>
   </tr>
 </table>
+</p>
 
