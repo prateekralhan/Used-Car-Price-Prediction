@@ -1,4 +1,5 @@
-# Used Car Price Prediction 🏎🚙⛽️ [![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+# Used Car Price Prediction 🏎🚙⛽️ [![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![](https://img.shields.io/badge/Prateek-Ralhan-brightgreen.svg?colorB=ff0000)](https://prateekralhan.github.io/)
+
 A ML based Web application that helps in predicting the *selling price* of a used 🚗 🚙
 
 ## Live Web-App available [here.](https://car-price-predict-app.herokuapp.com/)
